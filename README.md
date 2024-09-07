@@ -1,6 +1,4 @@
-## **README.md Descontraído para sua Aplicação**
-
-### **Busca Rápida e Divertida de Atletas!** 
+### **Busca Rápida e Divertida de Atletas! - Imersão Dev com Google Gemini** 
 
 **O que faz essa aplicação?**
 
